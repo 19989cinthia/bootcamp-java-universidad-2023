@@ -1,4 +1,6 @@
 MASTERCAD
 visa 
 Amex
+Rapipago
+Pago Facil
 
